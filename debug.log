@@ -1,0 +1,265 @@
+[12884:13708:0518/103635.449:VERBOSE1:chrome\updater\win\installer\installer.cc:500] "C:\Users\ReallyBrain\Downloads\ChromeSetup (1).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[12884:13708:0518/103641.103:VERBOSE1:chrome\updater\win\installer\installer.cc:617] Metainstaller WMain returning: 3
+[17656:3824:0518/103643.829:VERBOSE1:chrome\updater\win\installer\installer.cc:500] "C:\Users\ReallyBrain\Downloads\ChromeSetup (1).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[17428:11896:0518/103644.190:VERBOSE1:chrome\updater\event_history.cc:167] Failed to write security descriptor for C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl: Acesso negado. (0x5)
+[17428:11896:0518/103644.190:VERBOSE1:chrome\updater\updater.cc:352] Version: 149.0.7814.0, opt, x86, command line: "C:\Users\REALLY~1\AppData\Local\Temp\Google17656_1545688462\bin\updater.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[17428:11896:0518/103644.190:VERBOSE1:chrome\updater\updater.cc:355] OS version: 10.0.19045.6466, arch: x86_64, System uptime (seconds): 457881, parent pid: 17656
+[17428:11896:0518/103644.190:VERBOSE1:chrome\updater\updater.cc:364] Parent process command line: "C:\Users\ReallyBrain\Downloads\ChromeSetup (1).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[17428:11896:0518/103644.190:VERBOSE1:chrome\updater\util\win_util.cc:571] available: 2099M, total: 11617M, phys: 8G
+[17428:11896:0518/103644.191:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[8692:5436:0518/103644.231:VERBOSE1:chrome\updater\event_history.cc:167] Failed to write security descriptor for C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl: Acesso negado. (0x5)
+[8692:5436:0518/103644.231:VERBOSE1:chrome\updater\updater.cc:352] Version: 149.0.7814.0, opt, x86, command line: C:\Users\REALLY~1\AppData\Local\Temp\Google17656_1545688462\bin\updater.exe --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=149.0.7814.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl" --initial-client-data=0x2b0,0x2b4,0x2b8,0x2ac,0x2bc,0x1198584,0x1198590,0x119859c
+[8692:5436:0518/103644.231:VERBOSE1:chrome\updater\updater.cc:355] OS version: 10.0.19045.6466, arch: x86_64, System uptime (seconds): 457881, parent pid: 17428
+[8692:5436:0518/103644.232:VERBOSE1:chrome\updater\updater.cc:364] Parent process command line: "C:\Users\REALLY~1\AppData\Local\Temp\Google17656_1545688462\bin\updater.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[8692:5436:0518/103644.232:VERBOSE1:chrome\updater\util\win_util.cc:571] available: 2097M, total: 11617M, phys: 8G
+[8692:5436:0518/103644.232:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[17428:11896:0518/103644.233:VERBOSE1:chrome\updater\crash_reporter.cc:124] Crash handler launched and ready.
+[17428:11896:0518/103644.233:VERBOSE1:chrome\updater\crash_client.cc:108] Found 0 completed crash reports
+[17428:11896:0518/103644.233:VERBOSE1:chrome\updater\crash_client.cc:132] Found 0 pending crash reports
+[17428:11896:0518/103644.234:VERBOSE1:chrome\updater\updater.cc:103] Crash reporting initialized.
+[17428:11896:0518/103644.235:VERBOSE1:chrome\updater\updater.cc:153] IsUserAdmin: 1, IsUserNonElevatedAdmin: 0, IsUACOn: 1, IsElevatedWithUACOn: 1, LUA: 1
+[17428:11896:0518/103644.302:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[17428:13048:0518/103644.310:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:13048:0518/103644.525:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:11896:0518/103644.729:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[17428:13048:0518/103644.730:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:13048:0518/103644.937:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:11896:0518/103645.137:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[17428:13048:0518/103645.139:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:13048:0518/103645.357:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:13048:0518/103645.558:VERBOSE1:chrome\updater\win\setup\win_setup.cc:62] Setup, scope: System
+[17428:13048:0518/103726.229:VERBOSE1:chrome\updater\win\setup\win_setup.cc:159] Setup succeeded.
+[17428:13048:0518/103726.231:VERBOSE2:chrome\updater\prefs.cc:113] CreateGlobalPrefsInternal
+[17428:13048:0518/103726.231:VERBOSE1:chrome\updater\prefs.cc:161] UpdaterPrefsImpl (global): C:\Program Files (x86)\Google\GoogleUpdater
+[17428:8160:0518/103726.231:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[17428:8160:0518/103726.235:VERBOSE1:chrome\updater\prefs.cc:253] Prefs committed.
+[17428:13048:0518/103726.235:VERBOSE1:chrome\updater\prefs.cc:166] ~UpdaterPrefsImpl: C:\Program Files (x86)\Google\GoogleUpdater
+[17428:8160:0518/103726.235:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[17428:11896:0518/103726.235:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[17428:13048:0518/103726.240:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[17428:13048:0518/103726.451:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[17428:11896:0518/103726.653:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[17428:13048:0518/103726.658:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[17428:13048:0518/103726.874:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[17428:11896:0518/103727.090:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[17428:13048:0518/103727.095:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[17428:13048:0518/103727.309:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[17428:11896:0518/103727.510:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1090] ~UpdateServiceProxyWinImpl
+[17428:11896:0518/103727.510:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[17428:13048:0518/103727.510:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[17428:11896:0518/103727.510:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:150] ~UpdateServiceInternalProxyWinImpl
+[17428:13048:0518/103727.510:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[17428:8160:0518/103727.513:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:8160:0518/103727.728:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:11896:0518/103727.929:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[17428:13048:0518/103727.931:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:13048:0518/103728.148:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:11896:0518/103728.352:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[17428:13048:0518/103728.354:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:13048:0518/103728.557:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[17428:11896:0518/103728.758:VERBOSE2:chrome\updater\app\app_install.cc:302] Updater registration failed: 75035
+[17428:11896:0518/103728.758:VERBOSE1:chrome\updater\app\app_install_win.cc:748] Exit
+[17428:11896:0518/103728.758:VERBOSE1:chrome\updater\app\app_install_win.cc:1043] Updater error: 75003.
+[17428:13048:0518/103728.760:VERBOSE2:components\update_client\update_client.cc:305] SendPing
+[17428:13048:0518/103728.760:VERBOSE2:components\update_client\update_client.cc:157] RunTask
+[17428:13048:0518/103728.760:VERBOSE1:chrome\updater\net\network_fetcher_win.cc:94] Using the auto proxy configuration.
+[17428:13048:0518/103728.771:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:303] Impl: Successfully got logged on user token. Impersonate result: 0
+[17428:13048:0518/103728.788:VERBOSE2:components\update_client\request_sender.cc:95] url: https://update.googleapis.com/service/update2/json
+[17428:13048:0518/103728.788:VERBOSE2:components\update_client\request_sender.cc:104] Sending Omaha request: {"request":{"@os":"win","@updater":"GoogleUpdater","acceptformat":"crx3,download,puff,run,xz,zucc","apps":[{"appid":"{44fc7fe2-65ce-487c-93f4-edee46eeaaab}","enabled":true,"events":[{"errorcode":75003,"eventresult":0,"eventtype":2,"previousversion":"149.0.7814.0"}],"installdate":0,"version":"149.0.7814.0"}],"arch":"x86","dedup":"cr","hw":{"avx":true,"physmemory":8,"sse":true,"sse2":true,"sse3":true,"sse41":true,"sse42":true,"ssse3":true},"ismachine":true,"os":{"arch":"x86_64","platform":"Windows","version":"10.0.19045.6466"},"prodversion":"149.0.7814.0","protocol":"4.0","requestid":"{8a7d6347-b0e1-4e2c-854e-d9288f3980d1}","sessionid":"{ea82ea4d-28a2-4360-a458-63801132dde2}","updaterversion":"149.0.7814.0","wow64":true}}
+[17428:13048:0518/103728.788:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:178] PostRequest
+[17428:8160:0518/103728.788:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[17428:13048:0518/103728.788:VERBOSE1:components\winhttp\proxy_configuration.cc:127] Auto-proxy: winhttp uses the user settings for proxy.
+[17428:20108:0518/103728.796:VERBOSE1:components\winhttp\network_fetcher.cc:526] hostname: update.googleapis.com
+[17428:13020:0518/103728.802:VERBOSE1:components\winhttp\network_fetcher.cc:535] ip: 172.217.162.14
+[17428:13048:0518/103729.802:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:210] PostRequestComplete: response code=200
+[17428:13048:0518/103729.802:VERBOSE1:components\update_client\request_sender.cc:188] Request completed from url: https://update.googleapis.com/service/update2/json
+[17428:13048:0518/103729.802:VERBOSE2:components\update_client\request_sender.cc:136] Omaha response received: )]}'
+{"response":{"server":"prod","protocol":"4.0","daystart":{"elapsed_seconds":23849,"elapsed_days":7077},"apps":[{"appid":"{44fc7fe2-65ce-487c-93f4-edee46eeaaab}","status":"ok","events":[{"status":"ok"}]}]}}
+[17428:8160:0518/103729.802:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[17428:13048:0518/103729.802:VERBOSE2:components\update_client\request_sender.cc:243] TakeRequestSenderCallback
+[17428:13048:0518/103729.804:VERBOSE2:components\update_client\task_send_ping.cc:58] TaskComplete
+[17428:13048:0518/103729.804:VERBOSE2:components\update_client\update_client.cc:183] OnTaskComplete: tasks_.empty(): 1, task_queue_.empty(): 1, error: 0
+[17428:11896:0518/103729.805:VERBOSE1:chrome\updater\app\app.cc:52] Shutdown: 75003
+[17428:11896:0518/103729.806:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1090] ~UpdateServiceProxyWinImpl
+[17428:13048:0518/103729.806:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[17428:11896:0518/103733.578:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[17428:11896:0518/103733.579:VERBOSE1:chrome\updater\updater.cc:390] UpdaterMain (--install) returned 75003.
+[8692:5436:0518/103733.592:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[8692:5436:0518/103733.592:VERBOSE1:chrome\updater\updater.cc:390] UpdaterMain (--crash-handler) returned 0.
+[17656:3824:0518/103733.710:VERBOSE1:chrome\updater\win\installer\installer.cc:617] Metainstaller WMain returning: 75003
+[12124:18828:0518/103737.646:VERBOSE1:chrome\updater\win\installer\installer.cc:500] "C:\Users\ReallyBrain\Downloads\ChromeSetup (1).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[18736:1164:0518/103737.980:VERBOSE1:chrome\updater\event_history.cc:167] Failed to write security descriptor for C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl: Acesso negado. (0x5)
+[18736:1164:0518/103737.980:VERBOSE1:chrome\updater\updater.cc:352] Version: 149.0.7814.0, opt, x86, command line: "C:\Users\REALLY~1\AppData\Local\Temp\Google12124_1563020777\bin\updater.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[18736:1164:0518/103737.980:VERBOSE1:chrome\updater\updater.cc:355] OS version: 10.0.19045.6466, arch: x86_64, System uptime (seconds): 457935, parent pid: 12124
+[18736:1164:0518/103737.980:VERBOSE1:chrome\updater\updater.cc:364] Parent process command line: "C:\Users\ReallyBrain\Downloads\ChromeSetup (1).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[18736:1164:0518/103737.980:VERBOSE1:chrome\updater\util\win_util.cc:571] available: 2114M, total: 11617M, phys: 8G
+[18736:1164:0518/103737.980:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[15712:15792:0518/103738.020:VERBOSE1:chrome\updater\event_history.cc:167] Failed to write security descriptor for C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl: Acesso negado. (0x5)
+[15712:15792:0518/103738.021:VERBOSE1:chrome\updater\updater.cc:352] Version: 149.0.7814.0, opt, x86, command line: C:\Users\REALLY~1\AppData\Local\Temp\Google12124_1563020777\bin\updater.exe --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=149.0.7814.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl" --initial-client-data=0x2b0,0x2b4,0x2b8,0x2ac,0x2bc,0xb48584,0xb48590,0xb4859c
+[15712:15792:0518/103738.021:VERBOSE1:chrome\updater\updater.cc:355] OS version: 10.0.19045.6466, arch: x86_64, System uptime (seconds): 457935, parent pid: 18736
+[15712:15792:0518/103738.021:VERBOSE1:chrome\updater\updater.cc:364] Parent process command line: "C:\Users\REALLY~1\AppData\Local\Temp\Google12124_1563020777\bin\updater.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EACB1712-13F6-3A8D-DB5B-88A4767F9646}&lang=pt-PT&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[15712:15792:0518/103738.021:VERBOSE1:chrome\updater\util\win_util.cc:571] available: 2112M, total: 11617M, phys: 8G
+[15712:15792:0518/103738.021:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[18736:1164:0518/103738.022:VERBOSE1:chrome\updater\crash_reporter.cc:124] Crash handler launched and ready.
+[18736:1164:0518/103738.023:VERBOSE1:chrome\updater\crash_client.cc:108] Found 0 completed crash reports
+[18736:1164:0518/103738.023:VERBOSE1:chrome\updater\crash_client.cc:132] Found 0 pending crash reports
+[18736:1164:0518/103738.023:VERBOSE1:chrome\updater\updater.cc:103] Crash reporting initialized.
+[18736:1164:0518/103738.024:VERBOSE1:chrome\updater\updater.cc:153] IsUserAdmin: 1, IsUserNonElevatedAdmin: 0, IsUACOn: 1, IsElevatedWithUACOn: 1, LUA: 1
+[18736:1164:0518/103738.092:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[18736:4412:0518/103738.107:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:4412:0518/103738.314:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:1164:0518/103738.518:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[18736:4412:0518/103738.520:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:4412:0518/103738.723:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:1164:0518/103738.938:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[18736:4412:0518/103738.940:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:4412:0518/103739.144:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:4412:0518/103739.345:VERBOSE1:chrome\updater\win\setup\win_setup.cc:62] Setup, scope: System
+[18736:4412:0518/103739.390:VERBOSE1:chrome\updater\win\setup\win_setup.cc:159] Setup succeeded.
+[18736:4412:0518/103739.393:VERBOSE2:chrome\updater\prefs.cc:113] CreateGlobalPrefsInternal
+[18736:4412:0518/103739.394:VERBOSE1:chrome\updater\prefs.cc:161] UpdaterPrefsImpl (global): C:\Program Files (x86)\Google\GoogleUpdater
+[18736:15112:0518/103739.394:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[18736:15112:0518/103739.394:VERBOSE1:chrome\updater\prefs.cc:253] Prefs committed.
+[18736:4412:0518/103739.394:VERBOSE1:chrome\updater\prefs.cc:166] ~UpdaterPrefsImpl: C:\Program Files (x86)\Google\GoogleUpdater
+[18736:4412:0518/103739.394:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[18736:1164:0518/103739.394:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[18736:19108:0518/103739.399:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[18736:19108:0518/103739.616:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[18736:1164:0518/103739.830:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[18736:4412:0518/103739.835:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[18736:4412:0518/103740.055:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[18736:1164:0518/103740.268:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[18736:4412:0518/103740.273:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[18736:4412:0518/103740.495:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[18736:1164:0518/103740.707:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1090] ~UpdateServiceProxyWinImpl
+[18736:1164:0518/103740.707:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[18736:4412:0518/103740.707:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[18736:1164:0518/103740.707:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:150] ~UpdateServiceInternalProxyWinImpl
+[18736:4412:0518/103740.707:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[18736:15112:0518/103740.710:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:15112:0518/103740.927:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:1164:0518/103741.143:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[18736:4412:0518/103741.145:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:4412:0518/103741.361:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:1164:0518/103741.563:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[18736:4412:0518/103741.565:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:4412:0518/103741.768:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[18736:1164:0518/103741.969:VERBOSE2:chrome\updater\app\app_install.cc:302] Updater registration failed: 75035
+[18736:1164:0518/103741.969:VERBOSE1:chrome\updater\app\app_install_win.cc:748] Exit
+[18736:1164:0518/103741.969:VERBOSE1:chrome\updater\app\app_install_win.cc:1043] Updater error: 75003.
+[18736:4412:0518/103741.970:VERBOSE2:components\update_client\update_client.cc:305] SendPing
+[18736:4412:0518/103741.970:VERBOSE2:components\update_client\update_client.cc:157] RunTask
+[18736:4412:0518/103741.970:VERBOSE1:chrome\updater\net\network_fetcher_win.cc:94] Using the auto proxy configuration.
+[18736:4412:0518/103741.981:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:303] Impl: Successfully got logged on user token. Impersonate result: 0
+[18736:4412:0518/103742.001:VERBOSE2:components\update_client\request_sender.cc:95] url: https://update.googleapis.com/service/update2/json
+[18736:4412:0518/103742.001:VERBOSE2:components\update_client\request_sender.cc:104] Sending Omaha request: {"request":{"@os":"win","@updater":"GoogleUpdater","acceptformat":"crx3,download,puff,run,xz,zucc","apps":[{"appid":"{44fc7fe2-65ce-487c-93f4-edee46eeaaab}","enabled":true,"events":[{"errorcode":75003,"eventresult":0,"eventtype":2,"previousversion":"149.0.7814.0"}],"installdate":0,"version":"149.0.7814.0"}],"arch":"x86","dedup":"cr","hw":{"avx":true,"physmemory":8,"sse":true,"sse2":true,"sse3":true,"sse41":true,"sse42":true,"ssse3":true},"ismachine":true,"os":{"arch":"x86_64","platform":"Windows","version":"10.0.19045.6466"},"prodversion":"149.0.7814.0","protocol":"4.0","requestid":"{d200df51-aaf0-4bdd-93f0-a89e45293682}","sessionid":"{a98a33f5-ed78-46e2-a191-ea2d3f72fc6a}","updaterversion":"149.0.7814.0","wow64":true}}
+[18736:4412:0518/103742.001:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:178] PostRequest
+[18736:15112:0518/103742.001:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[18736:4412:0518/103742.001:VERBOSE1:components\winhttp\proxy_configuration.cc:127] Auto-proxy: winhttp uses the user settings for proxy.
+[18736:4004:0518/103742.015:VERBOSE1:components\winhttp\network_fetcher.cc:526] hostname: update.googleapis.com
+[18736:15424:0518/103742.028:VERBOSE1:components\winhttp\network_fetcher.cc:535] ip: 172.217.162.14
+[18736:4412:0518/103743.016:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:210] PostRequestComplete: response code=200
+[18736:4412:0518/103743.016:VERBOSE1:components\update_client\request_sender.cc:188] Request completed from url: https://update.googleapis.com/service/update2/json
+[18736:4412:0518/103743.016:VERBOSE2:components\update_client\request_sender.cc:136] Omaha response received: )]}'
+{"response":{"server":"prod","protocol":"4.0","daystart":{"elapsed_seconds":23862,"elapsed_days":7077},"apps":[{"appid":"{44fc7fe2-65ce-487c-93f4-edee46eeaaab}","status":"ok","events":[{"status":"ok"}]}]}}
+[18736:15112:0518/103743.016:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[18736:4412:0518/103743.016:VERBOSE2:components\update_client\request_sender.cc:243] TakeRequestSenderCallback
+[18736:4412:0518/103743.017:VERBOSE2:components\update_client\task_send_ping.cc:58] TaskComplete
+[18736:4412:0518/103743.017:VERBOSE2:components\update_client\update_client.cc:183] OnTaskComplete: tasks_.empty(): 1, task_queue_.empty(): 1, error: 0
+[18736:1164:0518/103743.019:VERBOSE1:chrome\updater\app\app.cc:52] Shutdown: 75003
+[18736:1164:0518/103743.019:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1090] ~UpdateServiceProxyWinImpl
+[18736:4412:0518/103743.019:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[14184:13736:0518/103900.579:VERBOSE1:chrome\updater\win\installer\installer.cc:500] "C:\Users\ReallyBrain\Downloads\ChromeSetup (2).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={CBC715EA-1409-6B5B-150F-CCD012DE1005}&lang=pt-BR&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[2012:15068:0518/103900.898:VERBOSE1:chrome\updater\event_history.cc:167] Failed to write security descriptor for C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl: Acesso negado. (0x5)
+[2012:15068:0518/103900.898:VERBOSE1:chrome\updater\updater.cc:352] Version: 149.0.7814.0, opt, x86, command line: "C:\Users\REALLY~1\AppData\Local\Temp\Google14184_348390243\bin\updater.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={CBC715EA-1409-6B5B-150F-CCD012DE1005}&lang=pt-BR&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[2012:15068:0518/103900.898:VERBOSE1:chrome\updater\updater.cc:355] OS version: 10.0.19045.6466, arch: x86_64, System uptime (seconds): 458018, parent pid: 14184
+[2012:15068:0518/103900.898:VERBOSE1:chrome\updater\updater.cc:364] Parent process command line: "C:\Users\ReallyBrain\Downloads\ChromeSetup (2).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={CBC715EA-1409-6B5B-150F-CCD012DE1005}&lang=pt-BR&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[2012:15068:0518/103900.898:VERBOSE1:chrome\updater\util\win_util.cc:571] available: 1439M, total: 11617M, phys: 8G
+[2012:15068:0518/103900.898:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[12276:12252:0518/103900.935:VERBOSE1:chrome\updater\event_history.cc:167] Failed to write security descriptor for C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl: Acesso negado. (0x5)
+[12276:12252:0518/103900.936:VERBOSE1:chrome\updater\updater.cc:352] Version: 149.0.7814.0, opt, x86, command line: C:\Users\REALLY~1\AppData\Local\Temp\Google14184_348390243\bin\updater.exe --crash-handler --system "--database=C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.0\Crashpad" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=149.0.7814.0 "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater.log" "--attachment=C:\Program Files (x86)\Google\GoogleUpdater\updater_history.jsonl" --initial-client-data=0x298,0x29c,0x2a0,0x294,0x2a4,0x1388584,0x1388590,0x138859c
+[12276:12252:0518/103900.936:VERBOSE1:chrome\updater\updater.cc:355] OS version: 10.0.19045.6466, arch: x86_64, System uptime (seconds): 458018, parent pid: 2012
+[12276:12252:0518/103900.936:VERBOSE1:chrome\updater\updater.cc:364] Parent process command line: "C:\Users\REALLY~1\AppData\Local\Temp\Google14184_348390243\bin\updater.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={CBC715EA-1409-6B5B-150F-CCD012DE1005}&lang=pt-BR&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 --expect-elevated
+[12276:12252:0518/103900.936:VERBOSE1:chrome\updater\util\win_util.cc:571] available: 1437M, total: 11617M, phys: 8G
+[12276:12252:0518/103900.936:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[2012:15068:0518/103900.937:VERBOSE1:chrome\updater\crash_reporter.cc:124] Crash handler launched and ready.
+[2012:15068:0518/103900.937:VERBOSE1:chrome\updater\crash_client.cc:108] Found 0 completed crash reports
+[2012:15068:0518/103900.937:VERBOSE1:chrome\updater\crash_client.cc:132] Found 0 pending crash reports
+[2012:15068:0518/103900.938:VERBOSE1:chrome\updater\updater.cc:103] Crash reporting initialized.
+[2012:15068:0518/103900.939:VERBOSE1:chrome\updater\updater.cc:153] IsUserAdmin: 1, IsUserNonElevatedAdmin: 0, IsUACOn: 1, IsElevatedWithUACOn: 1, LUA: 1
+[2012:15068:0518/103901.022:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[2012:2652:0518/103901.037:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:2652:0518/103901.250:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:15068:0518/103901.456:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[2012:2652:0518/103901.458:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:2652:0518/103901.661:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:15068:0518/103901.863:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1098] GetVersion
+[2012:2652:0518/103901.864:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:2652:0518/103902.070:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:19080:0518/103902.272:VERBOSE1:chrome\updater\win\setup\win_setup.cc:62] Setup, scope: System
+[2012:19080:0518/103902.334:VERBOSE1:chrome\updater\win\setup\win_setup.cc:159] Setup succeeded.
+[2012:2652:0518/103902.338:VERBOSE2:chrome\updater\prefs.cc:113] CreateGlobalPrefsInternal
+[2012:2652:0518/103902.338:VERBOSE1:chrome\updater\prefs.cc:161] UpdaterPrefsImpl (global): C:\Program Files (x86)\Google\GoogleUpdater
+[2012:19080:0518/103902.338:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[2012:19428:0518/103902.338:VERBOSE1:chrome\updater\prefs.cc:253] Prefs committed.
+[2012:2652:0518/103902.338:VERBOSE1:chrome\updater\prefs.cc:166] ~UpdaterPrefsImpl: C:\Program Files (x86)\Google\GoogleUpdater
+[2012:19080:0518/103902.338:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[2012:15068:0518/103902.338:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[2012:2652:0518/103902.343:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[2012:2652:0518/103902.560:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[2012:15068:0518/103902.770:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[2012:2652:0518/103902.776:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[2012:2652:0518/103902.995:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[2012:15068:0518/103903.207:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:165] Hello
+[2012:2652:0518/103903.212:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[2012:2652:0518/103903.431:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {5E692018-D934-5C71-B901-CADC92ED774C}: 80070005
+[2012:15068:0518/103903.644:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1090] ~UpdateServiceProxyWinImpl
+[2012:15068:0518/103903.644:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[2012:2652:0518/103903.644:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[2012:15068:0518/103903.644:VERBOSE1:chrome\updater\ipc\update_service_internal_proxy_win.cc:150] ~UpdateServiceInternalProxyWinImpl
+[2012:2652:0518/103903.644:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[2012:19080:0518/103903.647:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:19080:0518/103903.864:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:15068:0518/103904.066:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[2012:2652:0518/103904.068:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:2652:0518/103904.284:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[15196:11292:0518/103904.337:VERBOSE1:chrome\updater\win\installer\installer.cc:500] "C:\Users\ReallyBrain\Downloads\ChromeSetup (2).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={CBC715EA-1409-6B5B-150F-CCD012DE1005}&lang=pt-BR&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=-arch_x64-statsdef_1&installdataindex=empty&brand=HKFL --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[2012:15068:0518/103904.485:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1116] RegisterApp
+[2012:2652:0518/103904.487:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:2652:0518/103904.705:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:82] ::CoCreateInstance failed: {8018F647-BF07-55BB-82BE-A2D7049F7CE4}: 80070424
+[2012:15068:0518/103904.910:VERBOSE2:chrome\updater\app\app_install.cc:302] Updater registration failed: 75035
+[2012:15068:0518/103904.910:VERBOSE1:chrome\updater\app\app_install_win.cc:748] Exit
+[2012:15068:0518/103904.910:VERBOSE1:chrome\updater\app\app_install_win.cc:1043] Updater error: 75003.
+[2012:2652:0518/103904.910:VERBOSE2:components\update_client\update_client.cc:305] SendPing
+[2012:2652:0518/103904.910:VERBOSE2:components\update_client\update_client.cc:157] RunTask
+[2012:2652:0518/103904.911:VERBOSE1:chrome\updater\net\network_fetcher_win.cc:94] Using the auto proxy configuration.
+[2012:2652:0518/103904.918:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:303] Impl: Successfully got logged on user token. Impersonate result: 0
+[2012:2652:0518/103904.930:VERBOSE2:components\update_client\request_sender.cc:95] url: https://update.googleapis.com/service/update2/json
+[2012:2652:0518/103904.930:VERBOSE2:components\update_client\request_sender.cc:104] Sending Omaha request: {"request":{"@os":"win","@updater":"GoogleUpdater","acceptformat":"crx3,download,puff,run,xz,zucc","apps":[{"appid":"{44fc7fe2-65ce-487c-93f4-edee46eeaaab}","enabled":true,"events":[{"errorcode":75003,"eventresult":0,"eventtype":2,"previousversion":"149.0.7814.0"}],"installdate":0,"version":"149.0.7814.0"}],"arch":"x86","dedup":"cr","hw":{"avx":true,"physmemory":8,"sse":true,"sse2":true,"sse3":true,"sse41":true,"sse42":true,"ssse3":true},"ismachine":true,"os":{"arch":"x86_64","platform":"Windows","version":"10.0.19045.6466"},"prodversion":"149.0.7814.0","protocol":"4.0","requestid":"{8ec8dfb3-a963-4ca7-88f2-aaeed4d65515}","sessionid":"{d2180150-92f2-4b94-83ec-a734b2602b98}","updaterversion":"149.0.7814.0","wow64":true}}
+[2012:2652:0518/103904.930:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:178] PostRequest
+[2012:19080:0518/103904.930:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[2012:2652:0518/103904.930:VERBOSE1:components\winhttp\proxy_configuration.cc:127] Auto-proxy: winhttp uses the user settings for proxy.
+[2012:19148:0518/103904.936:VERBOSE1:components\winhttp\network_fetcher.cc:526] hostname: update.googleapis.com
+[2012:18216:0518/103904.943:VERBOSE1:components\winhttp\network_fetcher.cc:535] ip: 172.217.162.14
+[2012:2652:0518/103905.980:VERBOSE2:chrome\updater\net\network_fetcher_win.cc:210] PostRequestComplete: response code=200
+[2012:2652:0518/103905.980:VERBOSE1:components\update_client\request_sender.cc:188] Request completed from url: https://update.googleapis.com/service/update2/json
+[2012:19080:0518/103905.980:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[2012:2652:0518/103905.980:VERBOSE2:components\update_client\request_sender.cc:136] Omaha response received: )]}'
+{"response":{"server":"prod","protocol":"4.0","daystart":{"elapsed_seconds":23945,"elapsed_days":7077},"apps":[{"appid":"{44fc7fe2-65ce-487c-93f4-edee46eeaaab}","status":"ok","events":[{"status":"ok"}]}]}}
+[2012:2652:0518/103905.980:VERBOSE2:components\update_client\request_sender.cc:243] TakeRequestSenderCallback
+[2012:2652:0518/103905.981:VERBOSE2:components\update_client\task_send_ping.cc:58] TaskComplete
+[2012:2652:0518/103905.981:VERBOSE2:components\update_client\update_client.cc:183] OnTaskComplete: tasks_.empty(): 1, task_queue_.empty(): 1, error: 0
+[2012:15068:0518/103905.981:VERBOSE1:chrome\updater\app\app.cc:52] Shutdown: 75003
+[2012:15068:0518/103905.981:VERBOSE1:chrome\updater\ipc\update_service_proxy_win.cc:1090] ~UpdateServiceProxyWinImpl
+[2012:2652:0518/103905.982:VERBOSE2:chrome\updater\ipc\proxy_impl_base_win.h:58] ~ProxyImplBase
+[2012:15068:0518/103907.561:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[2012:15068:0518/103907.561:VERBOSE1:chrome\updater\updater.cc:390] UpdaterMain (--install) returned 75003.
+[12276:12252:0518/103907.575:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[12276:12252:0518/103907.575:VERBOSE1:chrome\updater\updater.cc:390] UpdaterMain (--crash-handler) returned 0.
+[14184:13736:0518/103907.682:VERBOSE1:chrome\updater\win\installer\installer.cc:617] Metainstaller WMain returning: 75003
+[15196:11292:0518/104040.169:VERBOSE1:chrome\updater\win\installer\installer.cc:617] Metainstaller WMain returning: 3
+[18736:1164:0518/104047.024:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[18736:1164:0518/104047.024:VERBOSE1:chrome\updater\updater.cc:390] UpdaterMain (--install) returned 75003.
+[15712:15792:0518/104047.035:VERBOSE1:chrome\updater\event_history.cc:238] Failed to write history event: logging not initialized
+[15712:15792:0518/104047.035:VERBOSE1:chrome\updater\updater.cc:390] UpdaterMain (--crash-handler) returned 0.
+[12124:18828:0518/104047.155:VERBOSE1:chrome\updater\win\installer\installer.cc:617] Metainstaller WMain returning: 75003
